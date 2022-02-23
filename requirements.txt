@@ -1,0 +1,9 @@
+Django==4.0.2
+django-rest-swagger==2.2.0
+djangorestframework~=3.13.1
+apps~=0.0.0.0.dev20200918
+pip~=22.0.3
+wheel~=0.33.1
+sqlparse~=0.4.2
+asgiref~=3.5.0
+setuptools~=49.2.1

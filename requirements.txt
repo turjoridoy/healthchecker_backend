@@ -7,3 +7,4 @@ wheel~=0.33.1
 sqlparse~=0.4.2
 asgiref~=3.5.0
 setuptools~=49.2.1
+psycopg2==2.8.6
